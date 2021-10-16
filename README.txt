@@ -1,0 +1,1 @@
+This is minor web project developed on JAVA (JSP and Servelets)
